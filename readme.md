@@ -14,11 +14,11 @@ Qt 练手的第二个小程序，一个简单的音乐播放器。
 
 可能还存在一些小问题，真的被 Qt 的对象摧毁机制给玩弄了。
 
-![avatar](md/local.png)
+![local](https://github.com/waterszhao/My-Player/md/local.png)
 
-![avatar](md/main.png)
+![main](https://github.com/waterszhao/My-Player/md/main.png)
 
-![avatar](md/menu.png)
+![menu](https://github.com/waterszhao/My-Player/md/menu.png)
 
 ## environment:
 
